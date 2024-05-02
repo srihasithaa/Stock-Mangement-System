@@ -32,5 +32,5 @@ To use the SQL code in this repository:
 
 ## Contributors
 
-- Sri Hasitha G(https://github.com/your-srihasithaa)
+- Sri Hasitha G(https://github.com/srihasithaa)
 
